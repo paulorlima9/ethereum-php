@@ -1,0 +1,7 @@
+{
+    "require": {
+        "pear/math_biginteger": "^1.0",
+        "kornrunner/keccak": "^1.1",
+        "digitaldonkey/ecverify": "^1.0"
+    }
+}
